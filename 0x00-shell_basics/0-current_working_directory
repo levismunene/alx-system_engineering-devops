@@ -1,2 +1,2 @@
-#include <stdio.h>
-pwd
+#!/bin/bash
+$echo "pwd"

@@ -1,2 +1,2 @@
 #!/bin/bash
-chmord -R u+x .
+chmord u+x .

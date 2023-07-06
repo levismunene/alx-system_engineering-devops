@@ -1,2 +1,2 @@
 #!/bin/bash
-chmord u+x -
+chmord 755 */
